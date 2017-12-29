@@ -8,6 +8,16 @@
     max-height: 200px;
 }
 
+.img-carousel{
+    padding: 100px;
+}
+
+.pro_icon{
+    font-size: 10em;
+    text-align: center;
+    align-content: center;
+}
+
 /*BT*/
 .bg-1{
     background-color: #2952a3;
@@ -22,8 +32,8 @@
     color: #ffffff;
 }
 .bg-4 { 
-    background-color: #a3a3a3; /* White */
-    color: #ffffff;
+    background-color: #ffffff; /* White */
+    color: #494949;
 }
 
 .container-fluid{
