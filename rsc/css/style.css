@@ -18,6 +18,10 @@
     align-content: center;
 }
 
+.s_padding{
+    padding: 100px;
+}
+
 /*BT*/
 .bg-1{
     background-color: #2952a3;
@@ -35,10 +39,16 @@
     background-color: #ffffff; /* White */
     color: #494949;
 }
+.bg-5 { 
+    background-color: #1d1d1d; /* White */
+    color: #ffffff;
+}
 
 .container-fluid{
     padding-top: 70px;
     padding-bottom: 70px;
+    padding-left: 35px;
+    padding-right: 35px;
 }
 
 .list-inline{
